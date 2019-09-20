@@ -8,7 +8,7 @@ body{
 
 h1{
     font-size: 2em;
-    height: 1.5;
+    line-height: 1.5;
     color: #c12258;
 
 }
@@ -84,13 +84,13 @@ tr{
     border:2px solid black;
 }
 
-
 footer{
     background-color:black;
     min-height:60px;
     position:fixed;
+    left:0;
+    right:0;
     bottom:0;
-    width:100%;
 
 }
 
