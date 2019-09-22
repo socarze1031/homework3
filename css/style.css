@@ -7,8 +7,8 @@ body{
 }
 
 h1{
-    font-size: 2em;
     line-height: 1.5;
+    font-size: 2em;
     color: #c12258;
 
 }
@@ -80,9 +80,6 @@ tr:hover{
     background-color:#fab9cf;
 }
 
-tr{
-    border:2px solid black;
-}
 
 footer{
     background-color:black;
